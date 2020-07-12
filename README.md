@@ -10,12 +10,12 @@ Full Stack Developer | DevOps | Machine Learning
    </td>
    <td>
     <a href="https://witscad.com/">
-      <img src="https://res.cloudinary.com/witspry/image/upload/v1594533167/witscad/official/witscad-icon.png" width="32" height="32" alt="LinkedIn">
+      <img src="https://res.cloudinary.com/witspry/image/upload/v1594533167/witscad/official/witscad-icon.png" width="32" height="32" alt="Witscad">
     </a>
   </td>
    <td>
      <a href="https://www.facebook.com/groups/fullstackdevelopersnetwork/">
-       FB
+       <img src="https://raw.githubusercontent.com/satya-jugran/satya-jugran/master/icons/social_facebook_circle.png" width="32" height="32" alt="Facebook">
      </a>
    </td>
  </tr>
