@@ -21,10 +21,8 @@ Full Stack Developer | DevOps | Machine Learning
  </tr>
 </table>
 
-### GitHub Stats 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=satya-jugran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satya-jugran&layout=compact&theme=tokyonight&card_width=450px)
+### Support here 📊
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L61Z66VG)
 
 
 <!--
