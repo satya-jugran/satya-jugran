@@ -21,7 +21,14 @@ Full Stack Developer | DevOps | Machine Learning
  </tr>
 </table>
 
-### Support here 📊
+## Open Source Software Projects
+### Grafio 
+Grafio is graph database with pluggable storage architecture. Supports multiple isolated graphs via graphId partitioning. Ships with a zero-dependency in-memory provider. Includes BFS/DFS traversal, type/property filtering, topological sort, DAG detection, transaction support, cache management and Mermaid export.
+
+[`https://github.com/satya-jugran/grafio`](https://github.com/satya-jugran/grafio)
+
+[`https://github.com/satya-jugran/grafio-mongo`](https://github.com/satya-jugran/grafio-mongo)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L61Z66VG)
 
 
