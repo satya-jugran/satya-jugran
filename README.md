@@ -23,7 +23,18 @@ Full Stack Developer | DevOps | Machine Learning
 
 ## Open Source Software Projects
 ### Grafio 
-Grafio is graph database with pluggable storage architecture. Supports multiple isolated graphs via graphId partitioning. Ships with a zero-dependency in-memory provider. Includes BFS/DFS traversal, type/property filtering, topological sort, DAG detection, transaction support, cache management and Mermaid export.
+High performance graph database with **native Cypher support** and **pluggable storage**.
+
+**Docs**: [https://satya-jugran.github.io/grafio](https://satya-jugran.github.io/grafio)
+
+#### Features
+
+- **Cypher Queries** - OpenCypher-compatible query language with aggregations and variable-length paths
+- **Pluggable Storage** - In-memory built-in, MongoDB available separately
+- **Multi-Hop Traversal** - BFS/DFS with type and property filtering
+- **Transactions** - Atomic multi-operation updates with automatic rollback
+- **Smart Caching** - LRU/LFU/FIFO with budget enforcement
+- **Graph Analysis** - DAG validation, topological sort, Mermaid export
 
 [`https://github.com/satya-jugran/grafio`](https://github.com/satya-jugran/grafio)
 
