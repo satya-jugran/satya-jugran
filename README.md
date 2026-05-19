@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Satya
-Full Stack Developer | DevOps | Machine Learning
+### Hi there 👋 I'm Satya 
+
+Full Stack Developer | AI Orchestration Developer | DevOps | Machine Learning
 
 <table border="0" style="border:none;margin:0px;border-width:0px;">
  <tr>
@@ -21,7 +22,10 @@ Full Stack Developer | DevOps | Machine Learning
  </tr>
 </table>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L61Z66VG)
+
 ## Open Source Software Projects
+
 ### Grafio 
 High performance graph database with **native Cypher support** and **pluggable storage**.
 
@@ -39,8 +43,6 @@ High performance graph database with **native Cypher support** and **pluggable s
 [`https://github.com/satya-jugran/grafio`](https://github.com/satya-jugran/grafio)
 
 [`https://github.com/satya-jugran/grafio-mongo`](https://github.com/satya-jugran/grafio-mongo)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L61Z66VG)
 
 
 <!--
