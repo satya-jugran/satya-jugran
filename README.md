@@ -31,31 +31,12 @@ High performance graph database with **native Cypher support** and **pluggable s
 
 **Docs**: [https://satya-jugran.github.io/grafio](https://satya-jugran.github.io/grafio)
 
-#### Features
-
-- **Cypher Queries** - OpenCypher-compatible query language with aggregations and variable-length paths
-- **Pluggable Storage** - In-memory built-in, MongoDB available separately
-- **Multi-Hop Traversal** - BFS/DFS with type and property filtering
-- **Transactions** - Atomic multi-operation updates with automatic rollback
-- **Smart Caching** - LRU/LFU/FIFO with budget enforcement
-- **Graph Analysis** - DAG validation, topological sort, Mermaid export
-
 [`https://github.com/satya-jugran/grafio`](https://github.com/satya-jugran/grafio)
 
 [`https://github.com/satya-jugran/grafio-mongo`](https://github.com/satya-jugran/grafio-mongo)
 
 ### WinBill
 Effortlessly generate professional, beautiful PDF invoices and receipts for your Node.js applications.
-
-#### Features
-- **Advanced Output** - Generate directly to a disk file or directly to a memory Buffer for modern web streaming (Express, NestJS, Next.js).
-- **Tax & Discount Engine** - Supports stacked global taxes and discounts, categorized product/service groupings, and line-item exemptions.
-- **Interactive Elements** - Automatically renders clickable payment links and embeds QR codes.
-- **Strictly Typed & Validated** - Full TypeScript support with robust zod validation. Invalid payloads throw immediately!
-- **Internationalization & i18n** - Native Intl.NumberFormat support for all ISO currency codes, plus a full translations dictionary to localize static PDF labels.
-- **Theming & Custom Fonts** - Inject your own custom .ttf font paths and define strict brand colors.
-- **Multiple Layouts** - Comes out-of-the-box with DEFAULT, MODERN, MINIMAL, and THERMAL (80mm POS) templates.
-- **Extensible Architecture** - Need a bespoke design? Implement ILayoutStrategy and inject your own completely custom layout!
 
 [`https://github.com/satya-jugran/winbill`](https://github.com/satya-jugran/winbill)
 
