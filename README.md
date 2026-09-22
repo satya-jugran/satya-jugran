@@ -35,6 +35,11 @@ High performance graph database with **native Cypher support** and **pluggable s
 
 [`https://github.com/satya-jugran/grafio-mongo`](https://github.com/satya-jugran/grafio-mongo)
 
+### NodeStack
+A self-hosted, single-process Backend Stack built natively for Node.js and TypeScript.
+
+[`https://github.com/satya-jugran/nodestack`](https://github.com/satya-jugran/nodestack)
+
 ### WinBill
 Effortlessly generate professional, beautiful PDF invoices and receipts for your Node.js applications.
 
