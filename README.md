@@ -29,21 +29,21 @@ Full Stack Developer | AI Orchestration Developer | DevOps | Machine Learning
 ### Grafio 
 High performance graph database with **native Cypher support** and **pluggable storage**.
 
-**Docs**: [https://satya-jugran.github.io/grafio](https://satya-jugran.github.io/grafio)
+**Repo**: [`https://github.com/satya-jugran/grafio`](https://github.com/satya-jugran/grafio), [`https://github.com/satya-jugran/grafio-mongo`](https://github.com/satya-jugran/grafio-mongo)
 
-[`https://github.com/satya-jugran/grafio`](https://github.com/satya-jugran/grafio)
-
-[`https://github.com/satya-jugran/grafio-mongo`](https://github.com/satya-jugran/grafio-mongo)
+**Docs**: [`https://satya-jugran.github.io/grafio`](https://satya-jugran.github.io/grafio)
 
 ### NodeStack
 A self-hosted, single-process Backend Stack built natively for Node.js and TypeScript.
 
-[`https://github.com/satya-jugran/nodestack`](https://github.com/satya-jugran/nodestack)
+**Repo**: [`https://github.com/satya-jugran/nodestack`](https://github.com/satya-jugran/nodestack)
+
+**Docs**: [`https://satya-jugran.github.io/nodestack/`](https://satya-jugran.github.io/nodestack)
 
 ### WinBill
 Effortlessly generate professional, beautiful PDF invoices and receipts for your Node.js applications.
 
-[`https://github.com/satya-jugran/winbill`](https://github.com/satya-jugran/winbill)
+**Repo**: [`https://github.com/satya-jugran/winbill`](https://github.com/satya-jugran/winbill)
 
 <!--
 **satya-jugran/satya-jugran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
